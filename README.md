@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am Hakjin Lee, ML/CV research engineer in Satrec Initiative!
+
+### 🔭 Research Interests
+* Probabilistic Modeling
+* Optimization & Generalization
+* Information Theory
+* Meta Learning
+
 
 <!--
 **nijkah/nijkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
