@@ -7,6 +7,10 @@ I am Hakjin Lee, ML/CV research engineer in Satrec Initiative!
 * Information Theory
 * Meta Learning
 
+### ⚡ Especailly interested in
+* Learing with limited supervisions in Computer Vision
+* extend ML-based methods beyond image classification
+
 
 <!--
 **nijkah/nijkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
