@@ -7,7 +7,7 @@ I am Hakjin Lee, ML/CV research engineer in Satrec Initiative.
 * Information Theory
 * Meta Learning
 
-### ⚡ Especailly interested in
+### ⚡ Especially interested in
 * Learing with limited supervisions in Computer Vision
 * extend ML-based methods beyond image classification
 
