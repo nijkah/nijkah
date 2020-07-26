@@ -4,7 +4,6 @@ I am Hakjin Lee, ML/CV research engineer in Satrec Initiative.
 ### 🔭 Research Interests
 * Probabilistic Modeling
 * Optimization & Generalization
-* Information Theory
 * Meta Learning
 
 ### ⚡ Especially interested in
