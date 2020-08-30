@@ -12,8 +12,8 @@ I am Hakjin Lee, ML/CV research engineer @ Satrec Initiative.
 
 ### 🤔 More specifically
 * Few-Shot Learning
-* Incremental Learning
-* Coninual Learning - for Object Detection
+* Continual Learning
+* Active Learning - for Object Detection
 * Bayesian Neural Network
 * Higher-order Optimization
 
