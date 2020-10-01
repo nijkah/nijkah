@@ -8,7 +8,7 @@ I am Hakjin Lee, ML/CV research engineer @ Satrec Initiative.
 
 ### ⚡ Especially interested in
 * Learing with limited supervisions in Computer Vision
-* Extend ML-based methods beyond image classification
+* Extend ML/DL theory beyond image classification
 
 ### 🤔 More specifically
 * Few-Shot Learning
