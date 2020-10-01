@@ -1,13 +1,14 @@
 ### Hi there 👋
 I am Hakjin Lee, ML/CV research engineer @ Satrec Initiative.
+My main interests lie on studying **what learning is** by insights from **learning with limited supervisions/non-stationary data**.
 
 ### 🔭 Research Interests
-* Probabilistic Modeling
 * Optimization & Generalization
+* Probabilistic Modeling
 * Meta Learning
 
 ### ⚡ Especially interested in
-* Learing with limited supervisions in Computer Vision
+* Learing with limited supervisions/non-stationary data in Computer Vision
 * Extend ML/DL theory beyond image classification
 
 ### 🤔 More specifically
