@@ -7,7 +7,7 @@ My main interests lie on studying **what learning is** by insights from **learni
 * Optimization & Generalization
 * Probabilistic Modeling
 * Meta Learning
-* Causality
+* Causal Inference
 
 ### ⚡ Especially interested in
 * Learing with limited supervisions/non-stationary data in Computer Vision
