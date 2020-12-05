@@ -2,10 +2,13 @@
 I am Hakjin Lee, ML/CV research engineer @ Satrec Initiative.
 
 My main interests lie on studying **what learning is** by insights from **learning with limited supervisions/non-stationary data**.
+To investigate this topic, I have interests on a variety of fundamental topics including optimization & generalization, few-shot learning, hyperparameter optimization, meta learning, causal inference and so on.
+
+Especially, I am focusing on problems from computer vision, which is one of the most primitive intellectual functions of the life.
 
 ### 🔭 Research Interests
 * Optimization & Generalization
-* Probabilistic Modeling
+* Few-Shot Learning
 * Meta Learning
 * Causal Inference
 
@@ -16,9 +19,9 @@ My main interests lie on studying **what learning is** by insights from **learni
 ### 🤔 More specifically
 * Few-Shot Learning
 * Continual Learning
-* Active Learning - for Object Detection
-* Bayesian Neural Network
-* Higher-order Optimization
+* Active Learning - for Object Detection or other complicated computer vision applications
+* Nonparametric Methods including Gaussian Process or Kernel Methods
+* Bias-variance tradeoff or Interpretation on loss surfaces.
 
 <!--
 **nijkah/nijkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
