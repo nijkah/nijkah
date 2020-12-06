@@ -24,6 +24,9 @@ Especially, I am focusing on problems from computer vision, which is one of the 
 * Nonparametric Methods including Gaussian Process or Kernel Methods
 * Bias-variance tradeoff or Interpretation on loss surfaces.
 
+
+In the very far future, I hope to dive in more fundamental fields such as formal epistemology.
+
 <!--
 **nijkah/nijkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
