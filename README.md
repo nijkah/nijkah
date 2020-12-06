@@ -2,6 +2,7 @@
 I am Hakjin Lee, ML/CV research engineer @ Satrec Initiative.
 
 My main interests lie on studying **what learning is** by insights from **learning with limited supervisions/non-stationary data**.
+
 To investigate this topic, I have interests on a variety of fundamental topics including optimization & generalization, few-shot learning, hyperparameter optimization, meta learning, causal inference and so on.
 
 Especially, I am focusing on problems from computer vision, which is one of the most primitive intellectual functions of the life.
