@@ -8,10 +8,10 @@ To investigate this topic, I have interests on a variety of fundamental topics i
 Especially, I am focusing on problems from computer vision, which is one of the most primitive intellectual functions of the life.
 
 ### 🔭 Research Interests
+* Object Detection
 * Optimization & Generalization
 * Few-Shot Learning
 * Meta Learning
-* Causal Inference
 
 ### ⚡ Especially interested in
 * Learing with limited supervisions/non-stationary data in Computer Vision
@@ -19,13 +19,11 @@ Especially, I am focusing on problems from computer vision, which is one of the 
 
 ### 🤔 More specifically
 * Few-Shot Learning
-* Continual Learning
-* Active Learning - for Object Detection or other complicated computer vision applications
+* Continual Learning - for Object Detection or other complicated computer vision applications
 * Nonparametric Methods including Gaussian Process or Kernel Methods
 * Bias-variance tradeoff or Interpretation on loss surfaces.
 
 
-In the very far future, I hope to dive in more fundamental fields such as formal epistemology.
 
 <!--
 **nijkah/nijkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
