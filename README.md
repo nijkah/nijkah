@@ -1,5 +1,4 @@
-Hakjin Lee
-MLOps Engineer / Computer Vision Reseach Engineer
+Hakjin Lee, MLOps Engineer / Computer Vision Reseach Engineer
 
 thinking about
 * what learning is and how learning works
