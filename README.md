@@ -2,7 +2,7 @@ Hakjin Lee, MLOps Engineer / Computer Vision Reseach Engineer
 
 thinking about
 * what learning is and how learning works
-* what good code is
+* what good development and research is
 * what working culture should be
 * what a good company is
 
