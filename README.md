@@ -6,7 +6,7 @@ Thinking about
 * what working culture should be
 * what a good company is
 
-Contributing to [mmcv](https://github.com/open-mmlab/mmcv), [mmdetection](https://github.com/open-mmlab/mmdetection), [mmediting](https://github.com/open-mmlab/mmediting), [mmrotate](https://github.com/open-mmlab/mmrotate), and so on.
+Contributing to [mmcv](https://github.com/open-mmlab/mmcv), [mmediting](https://github.com/open-mmlab/mmediting), [mmrotate](https://github.com/open-mmlab/mmrotate), [mmdetection](https://github.com/open-mmlab/mmdetection) and so on.
 
 
 <!--
