@@ -8,6 +8,9 @@ Thinking about
 
 Trying contributing to [mmcv](https://github.com/open-mmlab/mmcv), [mmediting](https://github.com/open-mmlab/mmediting), [mmrotate](https://github.com/open-mmlab/mmrotate), [mmdetection](https://github.com/open-mmlab/mmdetection) and so on.
 
+<img src="https://github-readme-stats.vercel.app/api?username=nijkah&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijkah&theme=tokyonight&layout=compact" height="150">
+
+
 
 <!--
 **nijkah/nijkah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
