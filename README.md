@@ -1,10 +1,9 @@
-Hakjin Lee, MLOps Engineer / Computer Vision Reseach Engineer
+Hakjin Lee, Machine Learning Engineer / Computer Vision Reseach Engineer
 
-Thinking about
+Interests
 * what learning is and how learning works
-* what good development and research is
-* what working culture should be
-* what a good company is
+* coordination of development and research through automation
+* sound communication
 
 Trying contributing to [mmcv](https://github.com/open-mmlab/mmcv), [mmediting](https://github.com/open-mmlab/mmediting), [mmrotate](https://github.com/open-mmlab/mmrotate), [mmdetection](https://github.com/open-mmlab/mmdetection) and so on.
 
