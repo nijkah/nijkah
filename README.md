@@ -5,7 +5,7 @@ Interests
 * coordination of development and research through automation
 * sound communication
 
-Trying contributing to [mmcv](https://github.com/open-mmlab/mmcv), [mmediting](https://github.com/open-mmlab/mmediting), [mmrotate](https://github.com/open-mmlab/mmrotate), [mmdetection](https://github.com/open-mmlab/mmdetection) and so on.
+Contributed repos: [mmcv](https://github.com/open-mmlab/mmcv), [mmediting](https://github.com/open-mmlab/mmediting), [mmrotate](https://github.com/open-mmlab/mmrotate), [mmdetection](https://github.com/open-mmlab/mmdetection), [mmdeploy](https://github.com/open-mmlab/mmdeploy), [torchserve](https://github.com/pytorch/serve).
 
 <img src="https://github-readme-stats.vercel.app/api?username=nijkah&show_icons=true&theme=tokyonight&layout=compact" height="150">
 
