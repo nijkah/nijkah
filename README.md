@@ -1,9 +1,9 @@
 Hakjin Lee, Machine Learning Engineer / Computer Vision Reseach Engineer
 
 Interests
-* what learning is and how learning works
-* coordination of development and research through automation
-* sound communication
+* Computer Vision with limited supervision
+* Boosting performance by automation and data
+* Deep learning system design for large-scale modulated frameworks
 
 Contributed repos: [mmcv](https://github.com/open-mmlab/mmcv), [mmediting](https://github.com/open-mmlab/mmediting), [mmrotate](https://github.com/open-mmlab/mmrotate), [mmdetection](https://github.com/open-mmlab/mmdetection), [mmdeploy](https://github.com/open-mmlab/mmdeploy), [torchserve](https://github.com/pytorch/serve).
 
