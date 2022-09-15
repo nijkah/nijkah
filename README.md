@@ -1,7 +1,7 @@
 Hakjin Lee, Machine Learning Engineer / Computer Vision Reseach Engineer
 
 Interests
-* Computer Vision with limited supervision
+* Visual understanding with limited supervision
 * Boosting performance by automation and data
 * Deep learning system design for large-scale modulated frameworks
 
