@@ -5,7 +5,7 @@ Interests
 * Boosting performance by automation and data
 * Deep learning system design for large-scale modulated frameworks
 
-Contributed repos: [mmcv](https://github.com/open-mmlab/mmcv/commits?author=nijkah), [mmrotate](https://github.com/open-mmlab/mmrotate/commits?author=nijkah), [mmdeploy](https://github.com/open-mmlab/mmdeploy/commits?author=nijkah), [torchserve](https://github.com/pytorch/serve/commits?author=nijkah).
+Contributed repos: [mmcv](https://github.com/open-mmlab/mmcv/commits?author=nijkah), [mmrotate](https://github.com/open-mmlab/mmrotate/commits?author=nijkah), [mmdeploy](https://github.com/open-mmlab/mmdeploy/commits?author=nijkah), [torchserve](https://github.com/pytorch/serve/issues?q=author%3Anijkah+).
 
 <img src="https://github-readme-stats.vercel.app/api?username=nijkah&show_icons=true&theme=tokyonight&layout=compact" height="150">
 
